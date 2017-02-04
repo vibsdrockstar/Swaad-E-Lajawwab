@@ -7,43 +7,41 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.example.vibhor.recipes.AboutUs">
+    tools:context=".AboutUs">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="Introduction"
-        android:id="@+id/tv2"
+        android:text="ABOUT US"
+        android:id="@+id/tvabout"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true" />
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="This app would tell us about the various cuisines of India"
-        android:id="@+id/tv3"
-        android:layout_below="@+id/tv2"
-        android:layout_marginTop="55dp"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentEnd="true" />
 
     <ImageView
         android:layout_width="200dp"
         android:layout_height="200dp"
-        android:id="@+id/imd"
-        android:src="@drawable/md"
+        android:id="@+id/imug"
+        android:src="@drawable/mg"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="This app will guide users how to cook recipes"
+        android:id="@+id/tvrecipes"
+        android:layout_below="@+id/imug"
+        android:layout_alignStart="@+id/imug" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="NEXT"
-        android:id="@+id/bnext"
-        android:layout_below="@+id/imd"
-        android:layout_marginTop="45dp"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentEnd="true" />
+        android:onClick="openSpinnerActivity"
+        android:id="@+id/b_next"
+        android:layout_alignParentBottom="true"
+        android:layout_alignEnd="@+id/tvrecipes"
+        android:layout_alignParentStart="true" />
 </RelativeLayout>
