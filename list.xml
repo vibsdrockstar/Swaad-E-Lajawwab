@@ -1,0 +1,16 @@
+<resources>
+        <string name="app_name">Swwaad E Lajawwab</string>
+        <string-array name="Dishes">
+            <item>---Select Dish---</item>
+            <item>Tomato Soup</item>
+            <item>Sour Cream Noodle Bake</item>
+            <item>Corn Dog Muffin </item>
+            <item> Veg Pizza</item>
+            <item>Chicken Burger</item>
+            <item> Chicken Dum Biryani</item>
+            <item>Shrimp Soup</item>
+            <item>Tofu Cake</item>
+        </string-array>
+    </resources>
+
+
