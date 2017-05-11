@@ -10,7 +10,7 @@
             <item> Chicken Dum Biryani</item>
             <item>Shrimp Soup</item>
             <item>Tofu Cake</item>
-             <item>Blue Cheese Cake</item>
+            <item>Blue Cheese Cake</item>
             <item>Pavlova</item>
             <item>Chicken In Paprika Sauce</item>
             <item>Meat Pie</item>
@@ -18,8 +18,30 @@
             <item>Green Bean</item>
             <item>Choux Pastry</item>
             <item>Beef Stewed In Red Wine</item>
+            <item>Hassleback Potatoes</item>
             <item>Bisque</item>
-            <item>Hassleback Potatoes With Rosemary</item>
+            <item>Sashimi</item>
+            <item>Tsukemono</item>
+            <item>Khao tom</item>
+            <item>Pita</item>
+            <item>Suya</item>
+            <item>Flying Fish</item>
+            <item>Bobotie</item>
+            <item>Kusherie</item>
+            <item>Greek Beef Stew</item>
+            <item>Dakka</item>
+            <item>Tortilla Espanola</item>
+            <item>Spanish Cod</item>
+            <item>Avocado Paletas</item>
+            <item>Salsa Chicken</item>
+            <item>Fragrant Butter Rice</item>
+            <item>Beef satay</item>
+            <item>Charmoula</item>
+            <item>Gazpacho</item>
+            <item>Fried Rice Cakes</item>
+            <item>Brazilian Feijoada</item>
+            <item>Caipirinha</item>
+            <item>Rosemary Steak</item>
         </string-array>
     </resources>
 
