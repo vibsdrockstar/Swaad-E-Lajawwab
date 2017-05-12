@@ -14,3 +14,9 @@ An app that would tell about various recipes to users and nutritional value it c
 ![p10](https://cloud.githubusercontent.com/assets/18600300/25879934/01d796ca-3552-11e7-8cc9-8627ec50372b.jpg)
 ![p11](https://cloud.githubusercontent.com/assets/18600300/25879948/1a9241c4-3552-11e7-9467-6115c401be1e.jpg)
 ![p12](https://cloud.githubusercontent.com/assets/18600300/25879961/28a5d550-3552-11e7-9c31-04f4c8237a66.jpg)
+![capicollo](https://cloud.githubusercontent.com/assets/18600300/25982089/148072d2-36f7-11e7-851b-a8caf6bb2c0a.jpg)
+![farinata](https://cloud.githubusercontent.com/assets/18600300/25982090/183f60ae-36f7-11e7-9855-45f8391a34fe.jpg)
+![khao](https://cloud.githubusercontent.com/assets/18600300/25982093/1bd59fc6-36f7-11e7-9985-37d61865ca93.jpg)
+![shrimp](https://cloud.githubusercontent.com/assets/18600300/25982095/1ed10f1c-36f7-11e7-9b4b-39b15d6a1fb1.jpg)
+
+
