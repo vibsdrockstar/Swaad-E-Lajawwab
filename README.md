@@ -33,5 +33,6 @@ An app that would tell about various recipes to users and nutritional value it c
 ![satay](https://cloud.githubusercontent.com/assets/18600300/25985794/2988d21a-370a-11e7-904a-1dc6fa2fb3d8.jpg)
 ![steak](https://cloud.githubusercontent.com/assets/18600300/25985804/344e1de0-370a-11e7-963f-bd80446427a9.jpg)
 ![stew](https://cloud.githubusercontent.com/assets/18600300/25985807/3a3ffef8-370a-11e7-9285-0721e7c529a9.jpg)
+![pic s](https://user-images.githubusercontent.com/18600300/32256878-df14460a-bed7-11e7-9169-ac401a8648ba.png)
 
 
